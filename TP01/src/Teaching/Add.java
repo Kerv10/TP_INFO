@@ -33,6 +33,8 @@ public class Add {
 		System.out.println(resultat.Adition(5,5));
 
 		System.out.println(resultat.result);
+		System.out.println(resultat.result);
+		System.out.println(resultat.result);
 		
 		
 	}
